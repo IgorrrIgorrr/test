@@ -26,3 +26,6 @@ elif a == 2:
     print("два")
 else:
     print("jjjj")
+    
+    
+    
