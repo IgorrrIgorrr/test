@@ -1,5 +1,7 @@
 import random
 
+
+
 print("Hello, my friend.")
 a = random.randrange(1, 4)
 print(a)
